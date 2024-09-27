@@ -1,4 +1,4 @@
-# FastAPI Ollama Translation
+# FastAPI Ollama Translation with Qwen2
 
 This repository contains a FastAPI application that uses Ollama to translate text from Chinese to Thai. The application is containerized using Docker for easy deployment and consistency across different environments.
 
