@@ -13,7 +13,7 @@ This repository contains a FastAPI application that uses Ollama to translate tex
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/fastapi-ollama-translation.git](https://github.com/Ohmmy3847/fastapi-ollama-translation.git
+   git clone https://github.com/Ohmmy3847/fastapi-ollama-translation.git
    cd fastapi-ollama-translation
    ```
 
